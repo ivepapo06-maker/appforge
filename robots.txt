@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /panel.html
+Disallow: /success.html
+
+Sitemap: https://appforge-ui1a.vercel.app/sitemap.xml
